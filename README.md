@@ -27,7 +27,7 @@
 > [프로젝트 프론트엔드 상세 보기](https://github.com/mankic/mylittleshoes_frontend.git)
 
 **4. [MyLittleTrip]()**
-> 프로젝트 간략 설명
+> 프로젝트 간략 설명  
 > 개발 기간 : 2022.07.07 ~ 2022.08.16
 >  
 > 기술 스택 :   
