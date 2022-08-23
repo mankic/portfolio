@@ -1,6 +1,9 @@
-# portfolio
+# Portfolio
+
+## Intro
+안녕하세요. 최민기의 포트폴리오입니다.
   
-## projects
+## Projects
 <br />
 
 **1. [My Little Hero](https://github.com/mankic/mylittlehero_backend.git)**
