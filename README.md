@@ -2,7 +2,14 @@
 
 ## Intro
 안녕하세요. 최민기의 포트폴리오입니다.
-  
+<br />
+
+## contact
+> **email** : miic0803@gmail.com  
+> **github** : https://github.com/mankic  
+> **blog** : https://mankidomain.tistory.com/   
+<br />
+
 ## Projects
 <br />
 
