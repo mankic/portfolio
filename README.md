@@ -1,13 +1,14 @@
 # Portfolio
 
 ## Intro
-안녕하세요. 최민기의 포트폴리오입니다.
+안녕하세요. 최민기의 포트폴리오입니다.  
+백엔드 개발자로 성장하며 진행한 프로젝트를 상세하게 볼 수 있습니다. 
 <br />
 
 ## contact
-> **email** : miic0803@gmail.com  
-> **github** : https://github.com/mankic  
-> **blog** : https://mankidomain.tistory.com/   
+**email** : miic0803@gmail.com  
+**github** : https://github.com/mankic  
+**blog** : https://mankidomain.tistory.com/   
 <br />
 
 ## Projects
